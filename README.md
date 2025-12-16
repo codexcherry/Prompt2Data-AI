@@ -1,17 +1,17 @@
-# Prompt2Data AI 🚀
+# Prompt2Data AI 
 
 A powerful full-stack web application that combines AI-powered data preprocessing with machine learning model training. Upload your datasets and transform them using natural language instructions powered by Google Gemini AI, then train ML models to analyze your processed data.
 
 ## Features
 
-- 📁 **File Upload**: Drag & drop or browse to upload CSV, JSON, or TXT files (up to 10MB)
-- ✨ **AI Processing**: Use natural language to describe transformations (e.g., "Remove duplicates", "Normalize prices")
-- 📊 **Live Preview**: See original and processed data side by side with real-time statistics
-- 💾 **Export**: Download processed data as CSV, JSON, or TXT
-- 🤖 **ML Model Training**: Train multiple ML models (Linear Regression, Decision Tree, Random Forest, KNN, Naive Bayes) on your data
-- 📈 **Performance Metrics**: Compare model performance with detailed metrics (Accuracy, R² Score, MSE, RMSE, etc.)
-- 🎯 **Auto Task Detection**: Automatically detects classification vs regression tasks
-- 🔍 **Data Quality Assessment**: Evaluate data quality without requiring a target column
+- **File Upload**: Drag & drop or browse to upload CSV, JSON, or TXT files (up to 10MB)
+- **AI Processing**: Use natural language to describe transformations (e.g., "Remove duplicates", "Normalize prices")
+- **Live Preview**: See original and processed data side by side with real-time statistics
+- **Export**: Download processed data as CSV, JSON, or TXT
+- **ML Model Training**: Train multiple ML models (Linear Regression, Decision Tree, Random Forest, KNN, Naive Bayes) on your data
+- **Performance Metrics**: Compare model performance with detailed metrics (Accuracy, R² Score, MSE, RMSE, etc.)
+- **Auto Task Detection**: Automatically detects classification vs regression tasks
+- **Data Quality Assessment**: Evaluate data quality without requiring a target column
 
 ## Quick Start
 
